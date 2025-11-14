@@ -26,7 +26,7 @@ class NewWidget extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "Hlw World",
+          "BTG",
           style: TextStyle(
             fontWeight: FontWeight.bold,
             color: Colors.black,
@@ -60,7 +60,7 @@ class NewWidget extends StatelessWidget {
                 children: [
                   Center(
                     child: Text(
-                      "Welcome to my simple app",
+                      "Welcome to our club",
                       style: TextStyle(
                         fontWeight: FontWeight.bold,
                         fontSize: 28,
