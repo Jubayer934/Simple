@@ -1,4 +1,4 @@
-# My Simple FLutter Project
+# My Simple FLutter App
 
 ## 📱  Preview
 
