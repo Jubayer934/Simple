@@ -39,7 +39,7 @@ class NewWidget extends StatelessWidget {
       body: Container(
         decoration: BoxDecoration(
           gradient: LinearGradient(
-            colors: [Colors.blue.shade200, Colors.blue.shade300],
+            colors: [Colors.blue.shade200, Colors.blue.shade700],
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
           ),
